@@ -1,3 +1,5 @@
 # GL.iNET-B1300
- Router Firmware
-LEDE 固件
+#LEDE 固件
+
+
+https://github.com/coolsnowwolf/lede
