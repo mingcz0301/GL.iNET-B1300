@@ -1,0 +1,16 @@
+CONFIG_TARGET_ipq40xx=y
+CONFIG_TARGET_ipq40xx_generic=y
+CONFIG_TARGET_ipq40xx_generic_DEVICE_glinet_gl-b1300=y
+# CONFIG_PACKAGE_UnblockNeteaseMusic is not set
+CONFIG_PACKAGE_adbyby=y
+# CONFIG_PACKAGE_libatomic is not set
+CONFIG_PACKAGE_libcap-ng=y
+# CONFIG_PACKAGE_libcares is not set
+# CONFIG_PACKAGE_libhttp-parser is not set
+# CONFIG_PACKAGE_libnghttp2 is not set
+# CONFIG_PACKAGE_libuv is not set
+CONFIG_PACKAGE_luci-app-adbyby-plus=y
+CONFIG_PACKAGE_luci-i18n-adbyby-plus-zh-cn=y
+CONFIG_PACKAGE_luci-theme-material=y
+# CONFIG_PACKAGE_node is not set
+# CONFIG_UnblockNeteaseMusic_NodeJS is not set
