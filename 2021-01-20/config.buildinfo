@@ -1,8 +1,0 @@
-CONFIG_TARGET_ipq40xx=y
-CONFIG_TARGET_ipq40xx_generic=y
-CONFIG_TARGET_ipq40xx_generic_DEVICE_glinet_gl-b1300=y
-# CONFIG_PACKAGE_libminiupnpc is not set
-# CONFIG_PACKAGE_libnatpmp is not set
-# CONFIG_PACKAGE_luci-app-zerotier is not set
-CONFIG_PACKAGE_luci-theme-netgear=y
-# CONFIG_PACKAGE_zerotier is not set
