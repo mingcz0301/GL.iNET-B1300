@@ -1,0 +1,86 @@
+CONFIG_TARGET_ipq40xx=y
+CONFIG_TARGET_ipq40xx_DEVICE_glinet_gl-b1300=y
+CONFIG_TARGET_BOARD="ipq40xx"
+# CONFIG_PACKAGE_UnblockNeteaseMusic-Go is not set
+CONFIG_PACKAGE_boost=y
+CONFIG_PACKAGE_boost-program_options=y
+CONFIG_PACKAGE_boost-system=y
+CONFIG_PACKAGE_chinadns-ng=y
+CONFIG_PACKAGE_coreutils-nohup=y
+CONFIG_PACKAGE_frpc=y
+CONFIG_PACKAGE_haproxy=y
+CONFIG_PACKAGE_ipt2socks=y
+CONFIG_PACKAGE_iptables-mod-conntrack-extra=y
+CONFIG_PACKAGE_iptables-mod-ipopt=y
+CONFIG_PACKAGE_iptables-mod-iprange=y
+# CONFIG_PACKAGE_iptables-mod-ipsec is not set
+# CONFIG_PACKAGE_kmod-crypto-cbc is not set
+# CONFIG_PACKAGE_kmod-crypto-deflate is not set
+# CONFIG_PACKAGE_kmod-crypto-des is not set
+# CONFIG_PACKAGE_kmod-crypto-echainiv is not set
+CONFIG_PACKAGE_kmod-crypto-kpp=y
+CONFIG_PACKAGE_kmod-crypto-lib-blake2s=y
+CONFIG_PACKAGE_kmod-crypto-lib-chacha20=y
+CONFIG_PACKAGE_kmod-crypto-lib-chacha20poly1305=y
+CONFIG_PACKAGE_kmod-crypto-lib-curve25519=y
+CONFIG_PACKAGE_kmod-crypto-lib-poly1305=y
+# CONFIG_PACKAGE_kmod-crypto-md5 is not set
+CONFIG_PACKAGE_kmod-ifb=y
+# CONFIG_PACKAGE_kmod-ipsec is not set
+CONFIG_PACKAGE_kmod-ipt-conntrack-extra=y
+CONFIG_PACKAGE_kmod-ipt-ipopt=y
+CONFIG_PACKAGE_kmod-ipt-iprange=y
+# CONFIG_PACKAGE_kmod-ipt-ipsec is not set
+# CONFIG_PACKAGE_kmod-iptunnel6 is not set
+CONFIG_PACKAGE_kmod-sched-connmark=y
+CONFIG_PACKAGE_kmod-sched-core=y
+# CONFIG_PACKAGE_kmod-tun is not set
+CONFIG_PACKAGE_kmod-udptunnel4=y
+CONFIG_PACKAGE_kmod-udptunnel6=y
+CONFIG_PACKAGE_kmod-wireguard=y
+CONFIG_PACKAGE_libatomic=y
+# CONFIG_PACKAGE_libgmp is not set
+CONFIG_PACKAGE_libltdl=y
+CONFIG_PACKAGE_liblua5.3=y
+# CONFIG_PACKAGE_libminiupnpc is not set
+# CONFIG_PACKAGE_libnatpmp is not set
+CONFIG_PACKAGE_libreadline=y
+CONFIG_PACKAGE_libuv=y
+CONFIG_PACKAGE_luci-app-frpc=y
+# CONFIG_PACKAGE_luci-app-ipsec-vpnd is not set
+CONFIG_PACKAGE_luci-app-mwan3=y
+CONFIG_PACKAGE_luci-app-mwan3helper=y
+CONFIG_PACKAGE_luci-app-nps=y
+CONFIG_PACKAGE_luci-app-passwall=y
+CONFIG_PACKAGE_luci-app-qos=y
+CONFIG_PACKAGE_luci-app-syncdial=y
+# CONFIG_PACKAGE_luci-app-unblockmusic is not set
+# CONFIG_PACKAGE_luci-app-unblockmusic_INCLUDE_UnblockNeteaseMusic_Go is not set
+CONFIG_PACKAGE_luci-app-wireguard=y
+# CONFIG_PACKAGE_luci-app-zerotier is not set
+CONFIG_PACKAGE_luci-compat=y
+CONFIG_PACKAGE_luci-i18n-frpc-zh-cn=y
+CONFIG_PACKAGE_luci-i18n-mwan3-zh-cn=y
+CONFIG_PACKAGE_luci-i18n-mwan3helper-zh-cn=y
+CONFIG_PACKAGE_luci-i18n-nps-zh-cn=y
+CONFIG_PACKAGE_luci-i18n-passwall-zh-cn=y
+CONFIG_PACKAGE_luci-i18n-qos-zh-cn=y
+CONFIG_PACKAGE_luci-i18n-wireguard-zh-cn=y
+CONFIG_PACKAGE_luci-proto-wireguard=y
+CONFIG_PACKAGE_luci-theme-material=y
+CONFIG_PACKAGE_mwan3=y
+CONFIG_PACKAGE_npc=y
+CONFIG_PACKAGE_qos-scripts=y
+# CONFIG_PACKAGE_strongswan is not set
+CONFIG_PACKAGE_tc-mod-iptables=y
+CONFIG_PACKAGE_tc-tiny=y
+CONFIG_PACKAGE_trojan-plus=y
+CONFIG_PACKAGE_unzip=y
+CONFIG_PACKAGE_v2ray-core=y
+CONFIG_PACKAGE_v2ray-plugin=y
+CONFIG_PACKAGE_wireguard-tools=y
+# CONFIG_PACKAGE_zerotier is not set
+CONFIG_boost-compile-visibility-hidden=y
+CONFIG_boost-runtime-shared=y
+CONFIG_boost-static-and-shared-libs=y
+CONFIG_boost-variant-release=y
